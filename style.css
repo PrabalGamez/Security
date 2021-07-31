@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+}
+div{
+    background-color:dimgrey;
+    border: grey solid 20px;
+    border-radius: 50px;
+}
+canvas{
+    border: 5px solid grey;
+    border-radius:20px;
+    box-shadow:5px 5px 5px dimgrey;
+    margin-top:140px;
+}
